@@ -22,10 +22,10 @@ You can see a live demo of the portfolio website at [ ]
 -   [Node.js](https://reactjs.dev)
 -   [express](https://tailwindcss.com)
 ## Packages Used
--   [node.js](https://www.npmjs.com/package/react-parallax-tilt)
--   [mongoosh](https://www.npmjs.com/package/react-type-animation)
--   [express](https://www.npmjs.com/package/rexeact-vertical-timeline-component)
--   [nodemon](https://www.npmjs.com/package/rexeact-vertical-timeline-component)
+-   [node.js](https://www.npmjs.com/package/node.js)
+-   [mongoosh](https://www.npmjs.com/package/mongoosh)
+-   [express](https://www.npmjs.com/package/express)
+-   [nodemon](https://www.npmjs.com/package/nodemon)
 ## Getting started
 1. Clone this repository to your local machine:
 ```bash
@@ -42,10 +42,13 @@ nodemon index.js
 Open your web browser and visit http://localhost:8080 to see the website in action during development.
 ## Project Structure
 The project structure is organized as follows:
--   `components`: React components used to build different sections of the portfolio.
--   `styles`: Styles and theme configurations, including the dark and light themes.
--   `public`: Static assets, such as images and fonts.
--   `pages`: Individual pages of the website.
--   `utils`: Utility functions or helper scripts.
+-   `controllers`: 
+-   `middlewares`: 
+-   `model`: 
+-   `routes`: 
+-   `views`: 
+-   `connection.js`
+-   `index.js`
+-   `log.txt`
 ## Author
 -   [@satyamshorrf](https://github.com/satyamshorrf)
